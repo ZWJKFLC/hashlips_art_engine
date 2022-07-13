@@ -1,0 +1,62 @@
+
+> hashlips_art_engine@1.1.1 build
+> node index.js
+
+(node:20527) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Created edition: 1, with DNA: e2cd5c70445f69cd631b014140cb43f9bd1a7a51
+Created edition: 2, with DNA: 23e518293e9eefb245f0a8e4b3b77b070aca84fc
+Created edition: 3, with DNA: cab829a6dac360253bd4e1e464b8a0dc556dc9b7
+Created edition: 4, with DNA: 0d027f441a4fa0381b22fdedb9a906999f016c88
+Created edition: 5, with DNA: a2f09665329a08b3d9952e97d57611a2496f0c9b
+Created edition: 6, with DNA: a37c202c35243696e1187ab7582082527fb0df8d
+Created edition: 7, with DNA: fcc586b1ee82b8c9aca933871b5068b91011ab16
+Created edition: 8, with DNA: 0871286eead426c71b6a5bdb0c813d4cc4867279
+Created edition: 9, with DNA: 0c335b1d01de63585f4e0d22a9df6593a27f2501
+Created edition: 10, with DNA: cde3c36938da950f2100e24ac0ebd24ee9ac44b5
+Created edition: 11, with DNA: 3e02fc83e8fef59e130c01d1e5f7b12348f186f9
+Created edition: 12, with DNA: 4fcf92b015a66e81704d7db68431539e47c3299c
+Created edition: 13, with DNA: b344618c19f8d1c0ea3ffa51ef64dcd178fe6e13
+Created edition: 14, with DNA: f9340952d8726ba5e54a6d082a05eead0f003b5f
+Created edition: 15, with DNA: 1b30f3199d649bf1efb90eb8f32e8899795a4f51
+
+> hashlips_art_engine@1.1.1 build
+> node index.js
+
+(node:20773) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Created edition: 1, with DNA: 3280de3803dfc0922d54d1a344db64b6f40c4c57
+Created edition: 2, with DNA: 7c6f9f413fff59dc3052e1269cd41c4140efa191
+Created edition: 3, with DNA: d5ca9d98c68b0f45638c18b5763937c1c6643ae1
+Created edition: 4, with DNA: 472db4d9d51dc6db52631ac266c2e6f9bacaac8a
+Created edition: 5, with DNA: 1b7c2ca6671dcbac92d28899dd03889925627668
+Created edition: 6, with DNA: e9028d685757dce0c2b15519f1b4d20754eddd68
+Created edition: 7, with DNA: cf6906ec959fe5f8d87862cd23da60cd4b1a8131
+Created edition: 8, with DNA: 5d61e146d3e74884bce68d99868c206c23bc0f1b
+Created edition: 9, with DNA: 30842dda6ffe765ae122b3ac71cd04c92864079d
+Created edition: 10, with DNA: dbd9b7817d9b4fe51168d595043826b5ad3f6ceb
+Created edition: 11, with DNA: df6f6e26faaaa8b5af13a7bcbea42bdc3b6f2b3d
+Created edition: 12, with DNA: 2bdf07d0d8e78e9f7d3899dca8873ee7293d7d6a
+Created edition: 13, with DNA: 36e74e6fe48400318083f9815b46a8a6fe6fb45a
+Created edition: 14, with DNA: e0b51c69f5893b95c95817d069e74b3571d92147
+Created edition: 15, with DNA: 12fc1efe82571c3946b6d62d4e124d94497cd66a
+Created edition: 16, with DNA: a85d4863fab34fece6d4a3fc616c6c34942e175d
+Created edition: 17, with DNA: 1e6ca82dae6e9a83237c596b543fe1683459e17d
+Created edition: 18, with DNA: 6cf384de2820936d67d64689085eb48f2972e4fa
+
+> hashlips_art_engine@1.1.1 build
+> node index.js
+
+(node:22505) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Created edition: 1, with DNA: 88e0cd8a8f1b9f848d2be2d3aea475e089114641
+Created edition: 2, with DNA: 0b0de8e3322f248c3d3324e8a0868274db66dbf5
+Created edition: 3, with DNA: 35f98459afc129ba92554d6c5d903db4ab9d0b26
+Created edition: 4, with DNA: 90414b0884ad58f6a567ca08b4be85bf82615303
+Created edition: 5, with DNA: 0089f5c71a95865b855bb01913c8f299c7cafca4
+Created edition: 6, with DNA: ae8aa5fdb7462fda108984ddeb76d8642432bcd8
+Created edition: 7, with DNA: 6afcb815acf6add452558df7ba6593b226559fc7
+Created edition: 8, with DNA: 51a0b2cbc23ea74aceb4f97a8a8df21ced5c92ab
+Created edition: 9, with DNA: f44abb41275ee6e5d0137a401dcf586b6e9083de
+Created edition: 10, with DNA: 973191822bed865bd67155e2311ae5a418e59476
+Created edition: 11, with DNA: 0af47f8e7a77f91c1f5acebb83acda07f45d309b

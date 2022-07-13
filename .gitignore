@@ -145,3 +145,5 @@ dist
 # OSX
 
 .DS_Store
+
+bkbuild
